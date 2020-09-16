@@ -1,5 +1,9 @@
 eper 
 meggy 
+<<<<<<< HEAD
 labda 
 postalada 
 ferrari 
+=======
+tekn‹s 
+>>>>>>> zold
